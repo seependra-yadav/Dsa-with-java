@@ -1,6 +1,8 @@
 import java.util.Arrays;
+public class reverse {
+    
 
-public class reverseString {
+
 
     public static void main(String[] args) {
         char[] s = { 'h', 'e', 'l', 'l', 'o' };
@@ -20,3 +22,6 @@ public class reverseString {
         System.out.println(Arrays.toString(s));
     }
 }
+
+    
+
