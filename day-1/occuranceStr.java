@@ -1,5 +1,5 @@
 
-
+//find first and last occurance of element in string 
 public class occuranceStr {
     public static int first=-1;
     public static int last =-1;
