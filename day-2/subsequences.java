@@ -1,5 +1,6 @@
 
 
+//return Subsequences of a String
 public class subsequences {
 
     public static void subSequences(String str, int idx, String newStr){

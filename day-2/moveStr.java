@@ -1,5 +1,6 @@
 
 
+// move all "X" at the end .
 public class moveStr {
     public static void moveAllX(String str, int idx, int count, String newStr){
         

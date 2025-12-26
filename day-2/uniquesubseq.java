@@ -1,5 +1,6 @@
 import java.util.HashSet;
 
+//return uniqe Subsequences of String
 public class uniquesubseq {
     public static void uniquesubseqence(String str, int idx, String newStr, HashSet<String>set){
         if(idx==str.length()){

@@ -1,5 +1,6 @@
 
 
+//Reomve duplicates from String
 public class removeduplicates {
 
     public static boolean[] map = new boolean[26];
